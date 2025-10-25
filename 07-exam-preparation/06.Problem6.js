@@ -1,7 +1,7 @@
 function six (num1, num2){
 
-    let start = String(num1); // подвисуряваме си, че входните числа ще ти прочетем като текст!
-    let end = String(num2); // подвисуряваме си, че входните числа ще ти прочетем като текст!
+    let start = String(num1); // подсигуряваме си, че входните числа ще ти прочетем като текст!
+    let end = String(num2); // подсигуряваме си, че входните числа ще ти прочетем като текст!
 
     let firstDigitStart = Number(start[0]); // достъпваме всяка една цира по индекс [] в текста 
     let secondDigitStart = Number(start[1]);
